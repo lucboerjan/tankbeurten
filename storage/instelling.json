@@ -1,0 +1,25 @@
+{
+    "taal": "nl",
+    "talen": {
+        "nl": [
+            "Nederlands",
+            "afbeeldingen\/vlag\/nederland.gif"
+        ],
+        "en": [
+            "Englisch",
+            "afbeeldingen\/vlag\/unitedkingdom.gif"
+        ]
+    },
+    "app": {
+        "favicon": "afbeeldingen\/app\/favicon.png",
+        "logo": "afbeeldingen\/app\/logo.png"
+    },
+
+    "paginering": {
+        "knoppen": 5,
+        "knoppenkeuzelijst": [3,5,7,9],
+        "aantalperpagina": 8,
+        "aantalperpaginakeuzelijst": [5,10,20,50,100]
+
+    }
+}
